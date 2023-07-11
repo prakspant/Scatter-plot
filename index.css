@@ -1,0 +1,21 @@
+#container {
+  text-align: center;
+}
+
+#chart {
+  display: inline-block;
+  margin: auto;
+}
+
+.dot {
+  stroke: #fff;
+}
+
+.tooltip {
+  position: absolute;
+  background-color: #eee;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  padding: 10px;
+  opacity: 0.7;
+}
